@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/7a32e48a-f9e6-4978-82c8-a6d71d1af8de" width="180" alt="Asfar Hussain Siddiqui - iOS, Android and Flutter mobile app developer" />
+  <img src="https://github.com/user-attachments/assets/fc8f1f0c-ce08-4811-b9a7-8c20d94872c6" width="180" alt="Asfar Hussain Siddiqui - iOS, Android and Flutter mobile app developer" />
   <h1>Asfar Hussain Siddiqui</h1>
   <h3>iOS Developer • Mobile App Developer • Flutter Developer • Android Developer</h3>
   <p>Professional mobile app development, web development, API integration, and product engineering.</p>
@@ -9,7 +9,7 @@
   </p>
 </div>
 
-## SEO Profile Description
+## About Me
 
 I am a **mobile app developer** specializing in **iOS app development**, **Android app development**, and **Flutter mobile application development**. I build, enhance, maintain, and optimize production-ready mobile apps for commerce, food delivery, retail, news and media, sports, services, sustainability, and business operations.
 
@@ -54,7 +54,7 @@ GFoods is a mobile food delivery and online ordering product designed around res
 
 - [View GFoods on the Apple App Store](https://apps.apple.com/th/app/gfoods/id1525122912)
 
-![GFoods mobile food delivery and online ordering app](https://github.com/user-attachments/assets/31c06da7-f8e8-48b4-bf71-35ad798d58ba)
+![GFoods mobile food delivery and online ordering app](https://github.com/user-attachments/assets/24da0bdb-0d78-48ea-9f44-2f4c423a1db7)
 
 ### 2. GNN HD — Bilingual News, Live TV & Media Application
 
@@ -80,7 +80,7 @@ GNN HD is a news and media mobile application focused on English and Urdu conten
 
 - [View GNN HD on the Apple App Store](https://apps.apple.com/th/app/gnn-hd/id1447094128)
 
-![GNN News iOS mobile application development showcase](https://github.com/user-attachments/assets/668916e2-819a-4bb5-b8d0-1dd746e0a814)
+![GNN News iOS mobile application development showcase](https://github.com/user-attachments/assets/8f355b5c-87f6-4f02-ad89-430f96d3691f)
 
 ### 3. G Dukan — Mobile Shopping & Commerce Application
 
@@ -128,7 +128,7 @@ This sustainability-focused mobile application supports plantation operations, t
 
 - [View Tree Tracker Pro on the Apple App Store](https://apps.apple.com/us/app/tree-tracker-pro/id6745031900)
 
-![Ballogy Forest Impact iOS tree planting and tracking app](https://github.com/user-attachments/assets/64ca5c16-2929-4b90-826d-8eec25d0b996)
+![Ballogy Forest Impact iOS tree planting and tracking app](https://github.com/user-attachments/assets/193384fb-a395-4e70-97fa-9cd5ef084ded)
 
 ### 5. Ballogy — Sports Performance, AI Training & Team Management App
 
@@ -152,9 +152,9 @@ Ballogy is a sports technology mobile application focused on performance trackin
 - HealthKit and Apple Watch integration concepts
 - Video, charts, location data, team workflows, and reusable UI components
 
-![Ballogy sports performance and AI training mobile app](https://github.com/user-attachments/assets/26464519-2a48-4caa-8f84-0a061c391abb)
+![Ballogy sports performance and AI training mobile app](https://github.com/user-attachments/assets/eb423d05-805c-4e6b-bbb8-0835150296ec)
 
-![Ballogy iOS app with Swift, UIKit, HealthKit and Apple Watch workflows](https://github.com/user-attachments/assets/16ec345f-82b1-4b4c-97f8-436d43ad26e1)
+![Ballogy iOS app with Swift, UIKit, HealthKit and Apple Watch workflows](https://github.com/user-attachments/assets/262b65d0-2955-4d18-bb66-6b2d77b37378)
 
 ### 6. Dairyfresh — iOS Retail, Delivery & B2B Commerce App
 
@@ -177,7 +177,7 @@ Dairyfresh is a retail ordering and cash-and-carry delivery application with B2B
 - REST API integration and product data presentation
 - Professional iOS UI implementation for ordering and support
 
-![Dairyfresh iOS retail ordering and B2B commerce app](https://github.com/user-attachments/assets/31c06da7-f8e8-48b4-bf71-35ad798d58ba)
+![Dairyfresh iOS retail ordering and B2B commerce app](https://github.com/user-attachments/assets/24da0bdb-0d78-48ea-9f44-2f4c423a1db7)
 
 ### 7. iNeedPros — Android & iOS Services Marketplace
 
@@ -200,7 +200,7 @@ iNeedPros is a services marketplace application that connects customers with loc
 - Marketplace UX, provider profiles, search, and booking flows
 - API-connected service categories and customer workflows
 
-![iNeedPros Android and iOS services marketplace app](https://github.com/user-attachments/assets/f2f9139b-1561-4601-aa71-be1fea4a9526)
+![iNeedPros Android and iOS services marketplace app](https://github.com/user-attachments/assets/024037b0-d167-42f1-881d-661b7cebe966)
 
 ## Technology Expertise
 
@@ -256,6 +256,7 @@ iNeedPros is a services marketplace application that connects customers with loc
 - [Tree Tracker Pro on the Apple App Store](https://apps.apple.com/us/app/tree-tracker-pro/id6745031900)
 - [LinkedIn](https://www.linkedin.com/in/asfarhussainsiddiqui/)
 - [Upwork](https://www.upwork.com/freelancers/~01924bcc65d4d7fbbb)
+- Email: [asferhussainsidiqui@gmail.com](mailto:asferhussainsidiqui@gmail.com)
 
 <div align="center">
   <p><strong>Have a mobile app, web platform, API, WordPress website, Laravel system, or POS product to build?</strong></p>
@@ -263,4 +264,3 @@ iNeedPros is a services marketplace application that connects customers with loc
   <a href="https://www.upwork.com/freelancers/~01924bcc65d4d7fbbb">Hire me on Upwork</a>
 </div>
 
-<!-- Search-friendly topics: mobile app developer, mobile app development, mobile application development, iOS developer, iOS app developer, Android developer, Android app development, Flutter developer, Flutter app development, Swift developer, Objective-C developer, Xcode developer, UIKit developer, SwiftUI developer, WordPress developer, WooCommerce developer, Laravel developer, PHP developer, REST API development, Firebase developer, POS software development, e-commerce app development, food delivery app development -->
